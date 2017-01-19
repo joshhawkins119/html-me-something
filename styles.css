@@ -1,0 +1,29 @@
+#title {
+    font-family: serif;
+
+}
+
+.intro {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+body {
+    background-color: #F0F8FF;
+    font-family: Georgia;
+}
+p {
+    font-family:sans-serif;
+    margin: 30px 30px 30px 30px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: gray;
+    padding: 10px 10px 10px 10px;
+
+}
